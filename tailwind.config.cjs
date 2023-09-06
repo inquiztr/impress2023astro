@@ -4,7 +4,9 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'ipink': '#c4186e'
+				'ipink': '#c4186e',
+				'igrey': '#1d2025',
+				'islate': '#2e2e2e'
 			}
 		},
 	},
