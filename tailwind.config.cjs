@@ -5,6 +5,7 @@ module.exports = {
 		extend: {
 			colors: {
 				'ipink': '#c4186e',
+				'ilite-pink': '#ff78b9',
 				'igrey': '#1d2025',
 				'islate': '#2e2e2e'
 			}
